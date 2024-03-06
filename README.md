@@ -1,8 +1,13 @@
 # Hi there, I'm Kush Jayank Pandya 👋
 
 ## 🚀 About Me
+With a robust seven-year proficiency in Python, I am a seasoned professional specializing in Machine Learning and AWS Cloud. As a certified AWS machine learning specialist, I've dedicated two semesters to independent learning in Artificial Intelligence and Machine Learning during my undergraduate studies. Currently pursuing a Master's in Computer Science at Rutgers University, I bring a dynamic blend of theoretical knowledge and practical experience, having spent a year at Novartis Healthcare.
 
-I am a passionate and results-driven Computer Science graduate student with a focus on Machine Learning and expertise in AWS. Currently pursuing my Master's at Rutgers University, I bring seven years of experience in Python, along with a strong background in project management and effective communication.
+Throughout my academic and professional journey, I've taken the lead in orchestrating various project teams. Operating within cross-functional environments, I've had the privilege of collaborating with diverse stakeholders. My projects have been showcased at numerous conferences and hackathons, showcasing my prowess in project management, effective storytelling, and communication with stakeholders.
+
+My commitment to applying knowledge and skill sets to real-world challenges is evident in my diverse portfolio of projects and internships across finance, healthcare, and digital marketing domains. This practical exposure not only demonstrates my adaptability but also solidifies my understanding of industry-specific nuances.
+
+In summary, I am a forward-thinking professional with a rich background in Python, Machine Learning, and AWS Cloud, currently shaping my expertise at the intersection of academia and industry through my Master's program at Rutgers University. My experience spans multiple sectors, showcasing my ability to seamlessly navigate through different industries and bring a unique perspective to problem-solving.
 
 ## 🔧 Skills
 
